@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+}
+.backgroundWrapper {
+  background-image: url("./../../assets/images/background.png");
+  background-size: cover;
+  width: 70%;
+  height: 700px;
+}
+.signInWrapper {
+  text-align: center;
+  display: flex;
+  width: 50%;
+
+  justify-content: center;
+}
